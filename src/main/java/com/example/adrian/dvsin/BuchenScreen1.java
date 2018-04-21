@@ -14,6 +14,8 @@ import java.lang.annotation.Target;
 public class BuchenScreen1 extends AppCompatActivity {
 
 
+    //######## Github Text #########
+
 // TEST -- FUNKTION Buchen -- //
 
     int button_grosses_Schiff_gedrueckt;
